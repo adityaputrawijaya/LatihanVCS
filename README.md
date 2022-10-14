@@ -140,4 +140,3 @@ $ git clone [https://github.com/adityaputrawijaya/labpy1.git]
 #### - Pada file tersebut kita dapat membuat dokumentasi awal dari setiap project yang kita buat untuk memberikan penjelasan atau sekedar cara penggunaan dari aplikasi yang kita kembangkan.
 #### - Penulisan file README.md berbasis teks, dan untuk pemformatannya menggunakan Markdown format.
 #### - Untuk lebih jelasnya, dapat anda pelajari cara penggunaannya Markdown pada ur1 berikut: https://guides.github.com/features/mastering-markdown/
-
