@@ -81,7 +81,7 @@ $ git add README.md
 #### - Untuk menyimpan perubahan yang ada kedalam database repository Lokal, gunakan perintah git commit -m "komentar commit"
 #### - Perubahan berhasil disimpan
 
-![Gambar1](gambar/git4.png)
+![Gambar1](gambar/git3.png)
 
 ## Membuat Repository Server
 
