@@ -74,7 +74,7 @@ $ git add README.md
 ```
 #### - File README.md berhasil ditambahkan.
 
-![Gambar1](gambar/git3.png)
+![Gambar1](gambar/git2.png)
 
 ## *Commit* (Menyimpan Perubahan ke Database)
 
