@@ -95,7 +95,7 @@ $ git add README.md
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol *Create repository*.
 
-![Gambar1](gambar/git6.png)
+![Gambar1](gambar/git66.jpeg)
 
 ## Menambah Remote Repository
 
