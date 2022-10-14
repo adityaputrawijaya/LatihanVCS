@@ -91,7 +91,7 @@ $ git add README.md
 ####   dari menu (icon +) klik *New Repository*.
 
 ![Gambar1](gambar/git5.png)
-![Gambar1](gambar/git6.png)
+![Gambar1](gambar/git4.png)
 #### - Isi nama repositorynya, misal: labpy.
 #### - Lalu klik tombol *Create repository*.
 
